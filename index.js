@@ -16,17 +16,6 @@ const educationMonica = [
 ];
 const favoriteRestoMonica = ["Bento", "Sushi", "Pancake", "Eggy", "Tempura", "Bento", "Eggy", "Padang", "Tteok", "Sushi", "Sushi"];  
 
-const firstUser = {
-    name: nameMonica,
-    gender: genderMonica,
-    age: ageMonica,
-    email: emailMonica,
-    favoriteColor: favoriteColorMonica,
-    isHavePet: isHavePetMonica,
-    education: educationMonica,
-    favoriteResto: favoriteRestoMonica 
-};
-
 /** Data Wendy */
 const nameWendy = "Wendy"
 const genderWendy = "Male"
@@ -41,6 +30,17 @@ const educationWendy = [
     { name: "Universitas Maju", city: "Tangerang" }
 ];
 const favoriteRestoWendy = ["Tempura", "Bento", "Sushi", "Pancake", "Padang", "Katsu", "Geprek", "Pancake", "Eggy"];   
+
+const firstUser = {
+    name: nameMonica,
+    gender: genderMonica,
+    age: ageMonica,
+    email: emailMonica,
+    favoriteColor: favoriteColorMonica,
+    isHavePet: isHavePetMonica,
+    education: educationMonica,
+    favoriteResto: favoriteRestoMonica 
+};
 
 const secondUser = {
     name: nameWendy,
